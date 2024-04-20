@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am a young developer beginning my journey in Full-Stack development!
+I am a young developer beginning my journey in Full-Stack development! I love computers and technology and am excited to take the next steps to making a career and hobby out of my coding abilities!
+
+pronouns:he/him 😄
+
+from: Delaware, OH 📫
+
+interests: gaming, hiking, listening to music, cars & tuning⚡
