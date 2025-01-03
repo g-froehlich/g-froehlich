@@ -1,5 +1,3 @@
-After looking back through the readme I believe I may have overcomplicated this project a bit but I have found the outcome to be very intriguing and exciting. I built a very large database which I did not realise the magnitude of until AFTER I had already created models, DAOs, and JdbcDaos.
-
 The database is under the database folder and my postman collection is under the postman folder.
 
 (I wrote these in order of hierarchy: admin can do all, then league managers, then players)
