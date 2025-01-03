@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Gavin Froehlich 👋
 
 <!--
 **g-froehlich/g-froehlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a young developer beginning my journey in Full-Stack development! I love computers and technology and am excited to take the next steps to making a career and hobby out of my coding abilities!
+I am a young developer beginning my journey in Full-Stack development! I love computers and technology and I have recently completed my Java Web Application Development Bootcamp at Tech Elevator. I am eager to showcase my skills and make a difference with my abilities! 
 
 pronouns: he/him 😄
 
-from: Delaware, OH 📫
+from: Cincinnati, OH 🏙️
 
-interests: gaming, hiking, listening to music, cars & tuning⚡
+interests: coffee, gaming, hiking, listening to music, cars & tuning ⚡
+
+find me on LinkedIn: https://www.linkedin.com/in/gavinfroehlich/ 🌱
+
+email: gavin.froehlich@gmail.com 📨
